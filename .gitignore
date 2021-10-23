@@ -1,0 +1,5 @@
+# swift-and-uikit-playground
+.DS_Store
+xcuserdata/
+timeline.xctimeline
+playground.xcworkspace
