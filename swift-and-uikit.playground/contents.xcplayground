@@ -3,5 +3,6 @@
     <pages>
         <page name='general'/>
         <page name='protocols'/>
+        <page name='timer'/>
     </pages>
 </playground>
