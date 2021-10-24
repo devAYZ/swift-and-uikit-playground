@@ -7,5 +7,6 @@
         <page name='protocols and delegate'/>
         <page name='struct'/>
         <page name='enum'/>
+        <page name='attributed strings'/>
     </pages>
 </playground>
