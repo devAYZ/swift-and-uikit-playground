@@ -4,5 +4,6 @@
         <page name='general'/>
         <page name='protocols'/>
         <page name='timer'/>
+        <page name='protocols and delegate'/>
     </pages>
 </playground>
