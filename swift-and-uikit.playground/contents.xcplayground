@@ -6,5 +6,6 @@
         <page name='timer'/>
         <page name='protocols and delegate'/>
         <page name='struct'/>
+        <page name='enum'/>
     </pages>
 </playground>
