@@ -8,5 +8,6 @@
         <page name='struct'/>
         <page name='enum'/>
         <page name='attributed strings'/>
+        <page name='storyboard test'/>
     </pages>
 </playground>
