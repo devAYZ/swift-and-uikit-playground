@@ -9,5 +9,7 @@
         <page name='enum'/>
         <page name='attributed strings'/>
         <page name='storyboard test'/>
+        <page name='generics'/>
+        <page name='regex'/>
     </pages>
 </playground>
