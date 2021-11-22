@@ -11,5 +11,7 @@
         <page name='storyboard test'/>
         <page name='generics'/>
         <page name='regex'/>
+        <page name='property wrapper'/>
+        <page name='unwrapping optional'/>
     </pages>
 </playground>
