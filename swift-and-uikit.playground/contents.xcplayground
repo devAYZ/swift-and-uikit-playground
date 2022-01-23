@@ -13,5 +13,6 @@
         <page name='regex'/>
         <page name='property wrapper'/>
         <page name='unwrapping optional'/>
+        <page name='string'/>
     </pages>
 </playground>

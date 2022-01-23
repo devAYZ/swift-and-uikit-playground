@@ -45,4 +45,8 @@ testGenericComparable(a: 5, b: 5)
 var boys: [Int] = []
 var boys2 = [Int]()
 
+var boyy = "ddd"
+boyy.la
+
+
 //: [Next](@next)
